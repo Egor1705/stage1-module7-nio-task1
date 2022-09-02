@@ -15,7 +15,7 @@ public class FileReader {
 
 
             parts = content.split("\n");
-            System.out.println(content);
+
         }
         catch(IOException f){
             f.printStackTrace();
